@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ERNI GIT/v17
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/TechExam2/TechExam2/bin/Debug/net6.0
+/TechExam2/.vs
+/TechExam2/TechExam2/obj
+/TechExam1/.vs
+/TechExam1/TechExam1/bin/Debug/net6.0
+/TechExam1/TechExam1/obj
+*.user
+/TechExam3/TechExam3/TechExam3/bin/Debug/net6.0
+/TechExam3/TechExam3/.vs/TechExam3
+/TechExam3/TechExam3/TechExam3/obj
